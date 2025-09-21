@@ -4,6 +4,9 @@ A secure, role-aware chatbot powered by **LLMs + Hybrid Retrieval (BM25 + Dense 
 
 ---
 
+![Project Architecture](architecture.png)
+
+
 ## 🧩 Problem Background  
 
 In large organizations, teams like **Finance, HR, Engineering, Marketing, and Executives** often struggle with fragmented document access. Employees waste time switching between tools, and sensitive information can leak across departments if access isn’t controlled.  
