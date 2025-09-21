@@ -47,7 +47,7 @@ def chat_with_bot(role):
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash",           # or another Gemini model you have access to
         temperature=0.7,              # optional: tune this
-        google_api_key="AIzaSyC4VHnZVOyFsQRmDP1_bNMk7014TQ9KE0g" # or rely on env var
+        google_api_key="" # or rely on env var
     )
 
 
