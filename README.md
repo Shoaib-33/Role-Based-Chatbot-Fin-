@@ -4,7 +4,7 @@ A secure, role-aware chatbot powered by **LLMs + Hybrid Retrieval (BM25 + Dense 
 
 ---
 
-![Project Architecture](architecture.png)
+![Project Architecture](archietecture.png)
 
 
 ## 🧩 Problem Background  
